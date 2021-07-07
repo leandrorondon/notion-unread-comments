@@ -1,0 +1,14 @@
+button {
+    outline: none;
+    margin: 15px;
+    padding: 5px;
+    border: none;
+    border-radius: 10%;
+    background-color: rgb(115, 151, 250);
+  }
+  
+  button.current {
+    box-shadow: 0 0 0 2px white,
+                0 0 0 4px black;
+  }
+  
